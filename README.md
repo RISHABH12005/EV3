@@ -1,4 +1,4 @@
-# *Deep Knowledge of LEGO Mindstorms EV3*
+# *LEGO Mindstorms EV3*
 
 ## *1. EV3 Brick (Main Controller)*
 - *Microprocessor*: ARM9 processor with 64MB RAM and 16MB flash storage.
