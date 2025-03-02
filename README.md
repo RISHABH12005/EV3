@@ -1,15 +1,15 @@
 # *LEGO Mindstorms EV3*
 
 ## *1. EV3 Brick (Main Controller)*
-- *Microprocessor*: ARM9 processor with 64MB RAM and 16MB flash storage.
-- *Operating System*: Linux-based OS.
+- *Microprocessor*: ARM9 processor with 64MB RAM & 16MB flash storage.
+- *OS*: Linux-based OS.
 - *Display*: Monochrome LCD for menu navigation.
 - *Ports*:
   - *4 Input Ports* (for sensors)
   - *4 Output Ports* (for motors)
   - *USB Port* (for flash drives or computer connection)
   - *Mini SD Card Slot* (supports up to 32GB)
-  - *Bluetooth & Wi-Fi Support* (for remote control and programming)
+  - *Bluetooth & Wi-Fi Support* (for remote control & programming)
 
 ---
 
@@ -19,7 +19,7 @@
 - Built-in *rotational sensor* for precise control.
 
 ### *Medium Motor*
-- Faster and smaller, suitable for precise and rapid movements.
+- Faster and smaller, suitable for precise & rapid movements.
 - Includes a *rotational sensor*.
 
 ---
@@ -27,11 +27,11 @@
 ## *3. Sensors*
 ### *Ultrasonic Sensor* (Distance Measurement)
 - Measures distance using sound waves.
-- Detects obstacles and measures distance in cm/inches.
+- Detects obstacles & measures distance in cm/inches.
 
 ### *Color Sensor* (Color & Light Detection)
 - Recognizes colors (red, blue, green, etc.).
-- Detects light intensity (ambient and reflected).
+- Detects light intensity (ambient & reflected).
 
 ### *Touch Sensor* (Physical Interaction)
 - Works like a button; detects when pressed or released.
@@ -39,7 +39,7 @@
 
 ### *Gyro Sensor* (Rotation & Balance)
 - Measures the robot’s rotational movement (angular velocity).
-- Helps in stabilizing movements and navigation.
+- Helps in stabilizing movements & navigation.
 
 ### *Infrared Sensor* (Object Detection & Remote Control)
 - Detects objects using infrared signals.
@@ -47,7 +47,7 @@
 
 ---
 
-## *4. Programming and Software*
+## *4. Programming & Software*
 ### *LEGO Mindstorms EV3 Software*
 - Graphical block-based programming interface (similar to Scratch).
 - Drag-and-drop programming for ease of use.
@@ -68,13 +68,5 @@
 ---
 
 ## *6. Power Supply*
-- Uses *6 AA batteries* or a *rechargeable lithium battery*.
-- Rechargeable batteries recommended for longer use and cost savings.
-
----
-
-## *7. Applications*
-- *Education*: STEM learning for students.
-- *Robotics Competitions*: FLL (First LEGO League) and WRO (World Robot Olympiad).
-- *DIY Robotics*: Home projects, automation, AI-based robotics.
-- *Industrial Prototyping*: Basic robotic arm simulations, testing automation concepts.
+- Uses *6 AA batteries* or a *rechargeable li-Ion battery*.
+- Rechargeable batteries recommended for longer use & cost savings.
