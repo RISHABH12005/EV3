@@ -5,11 +5,11 @@
 - *OS*: Linux-based OS.
 - *Display*: Monochrome LCD for menu navigation.
 - *Ports*:
-  - *4 Input Ports* (for sensors)
-  - *4 Output Ports* (for motors)
-  - *USB Port* (for flash drives or computer connection)
+  - *4 Input Ports* (Sensors)
+  - *4 Output Ports* (Motors)
+  - *USB Port* (flash drives or computer connection)
   - *Mini SD Card Slot* (supports up to 32GB)
-  - *Bluetooth & Wi-Fi Support* (for remote control & programming)
+  - *Bluetooth & Wi-Fi Support* (Remote control & programming)
 
 ---
 
