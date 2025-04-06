@@ -78,4 +78,4 @@
 - Allows manual control of motors and sensors in real-time.
 - Great for quick tests, demos, classroom activities.
 - Connects via Bluetooth to the EV3 brick.
-- **[LEGO Commander APK](https://apkpure.com/lego-commander/com.lego.commander)**
+- **[LEGO Commander APK](https://drive.google.com/file/d/1H8LiGWugMIBJYrGDqL8jeLUGUusKO_t7/view?usp=drive_link)**
