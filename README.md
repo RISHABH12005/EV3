@@ -74,8 +74,8 @@
 ---
 
 ## *7. LEGO Commander App*
-- A simple and intuitive mobile application for Android.
+- A simple & intuitive mobile application for Android.
 - Allows manual control of motors and sensors in real-time.
-- Great for quick tests, demos, or classroom activities.
+- Great for quick tests, demos, classroom activities.
 - Connects via Bluetooth to the EV3 brick.
-- **[Download LEGO Commander APK](https://apkpure.com/lego-commander/com.lego.commander)**
+- **[LEGO Commander APK](https://apkpure.com/lego-commander/com.lego.commander)**
