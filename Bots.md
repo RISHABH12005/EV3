@@ -1,4 +1,4 @@
-# Using EV3 Bots
+# Using LEGO & EV3 Bots
 
 - [Speed Bot](https://drive.google.com/file/d/142j08r4vf3_wwYBS8ZmrfpGokx3aCCTB/view?usp=drive_link)
 
